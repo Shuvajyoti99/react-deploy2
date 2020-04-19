@@ -1,4 +1,5 @@
 import React,{Component} from 'react';
+import {robots} from './robots'
 
 import CardList from './CardList';
 import SearchBoxer from './Searchboxer';
